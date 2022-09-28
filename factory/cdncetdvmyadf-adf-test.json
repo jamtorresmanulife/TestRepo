@@ -1,0 +1,9 @@
+{
+	"name": "cdncetdvmyadf-adf-test",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a05f1dae-98fd-4600-88c7-2e72a1be8262",
+		"tenantId": "5d3e2773-e07f-4432-a630-1a0f68a28a05"
+	}
+}
