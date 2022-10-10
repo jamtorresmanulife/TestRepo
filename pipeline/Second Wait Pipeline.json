@@ -1,0 +1,18 @@
+{
+	"name": "Second Wait Pipeline",
+	"properties": {
+		"description": "All you need is to wait..",
+		"activities": [
+			{
+				"name": "Wait1",
+				"type": "Wait",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"waitTimeInSeconds": 1
+				}
+			}
+		],
+		"annotations": []
+	}
+}
